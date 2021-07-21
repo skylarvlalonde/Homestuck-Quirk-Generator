@@ -1,17 +1,18 @@
 {
     "name": "homestuck-quirk-generator",
-    "version": "4.0.0",
-    "description": "A site that allows you to convert inputted text into the typing quirk of a Homestuck character.",
+    "version": "0.0.1",
+    "description": "A site that allows you to convert inputted text into the typing quirk of a character from the extended Homestuck universe. Forked from the original project by QuaternionMark.",
     "repository": {
         "type": "git",
-        "url": "git+https://QuaternionMark@github.com/QuaternionMark/Homestuck-Quirk-Generator.git"
+        "url": "git+https://skylarvlalonde@github.com/skylarvlalonde/Homestuck-Quirk-Generator.git"
     },
     "author": "Mark Jarjour",
+    "contributors": ["Skylar V. Lalonde"],
     "license": "SEE LICENSE IN LICENSE.md",
     "bugs": {
-        "url": "https://github.com/QuaternionMark/Homestuck-Quirk-Generator/issues"
+        "url": "https://github.com/skylarvlalonde/Homestuck-Quirk-Generator/issues"
     },
-    "homepage": "https://quaternionmark.github.io/homestuck_quirk/",
+    "homepage": "https://skylarvlalonde.github.io/homestuck_quirk/",
     "browserslist": {
         "production": [
             ">0.2%",
