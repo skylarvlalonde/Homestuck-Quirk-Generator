@@ -1,7 +1,7 @@
 {
-    "name": "homestuck-quirk-generator",
+    "name": "homestuck-quirk-generator-plus",
     "version": "0.0.1",
-    "description": "A site that allows you to convert inputted text into the typing quirk of a character from the extended Homestuck universe. Forked from the original project by QuaternionMark.",
+    "description": "A site that allows you to convert inputted text into the typing quirk of a character from the extended Homestuck universe, including related media (Vast Error) and the fork author's fantrolls. Forked from the original project by QuaternionMark.",
     "repository": {
         "type": "git",
         "url": "git+https://skylarvlalonde@github.com/skylarvlalonde/Homestuck-Quirk-Generator.git"

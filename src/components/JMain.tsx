@@ -211,7 +211,7 @@ export default class JMain extends React.Component<unknown, JMainStates> {
         return (
             <div className="info-fields">
                 <Typography.Title level={3}>Homestuck Quirk Generator</Typography.Title>
-                <div>Generator for Homestuck/Hiveswap typing quirks. Created by QuaternionMark (<a href="https://github.com/QuaternionMark/Homestuck-Quirk-Generator/">original project</a>) and forked by Skylar V. Lalonde.</div>
+                <div>Generator for Homestuck/Hiveswap/etc. typing quirks. Created by QuaternionMark (<a href="https://github.com/QuaternionMark/Homestuck-Quirk-Generator/">original project</a>) and forked by Skylar V. Lalonde.</div>
                 <div>
                     Want to check out the source or report issues?
                     See the <a href="https://github.com/skylarvlalonde/Homestuck-Quirk-Generator/">GitHub repo</a>.
